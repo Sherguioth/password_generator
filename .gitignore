@@ -1,0 +1,11 @@
+# IDEs files
+.idea
+.vscode
+
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+
+venv
